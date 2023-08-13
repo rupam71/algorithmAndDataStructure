@@ -1,0 +1,74 @@
+Certainly! Here are some common array-related algorithmic problems that you might encounter in technical interviews:
+
+1. Two Sum: 
+        Given an array of integers and a target sum, find two numbers that add up to the target sum.
+2. Three Sum: 
+        Given an array of integers, find all unique triplets that sum up to a given target value.
+3. Maximum Subarray: 
+        Find the contiguous subarray within an array that has the largest sum.
+4. Product of Array Except Self: 
+        Given an array, return an output array where each element is the product of all elements except the one at that index.
+5. Rotate Array: 
+        Rotate an array to the right by a given number of steps.
+6. Merge Sorted Arrays: 
+        Merge two sorted arrays into a single sorted array.
+7. Array Intersection: 
+        Find the intersection of two arrays.
+8. Move Zeroes: 
+        Move all zeroes in an array to the end while maintaining the relative order of non-zero elements.
+9. Largest Subarray with Zero Sum: 
+        Find the length of the largest subarray with a sum of zero.
+10. Stock Buy and Sell: 
+        Given an array representing stock prices, find the maximum profit that can be obtained by buying and selling stocks.
+11. Majority Element: 
+        Find the majority element (appears more than n/2 times) in an array.
+12. Minimum Size Subarray Sum: 
+        Find the minimum subarray length that has a sum at least equal to a given value.
+13. Longest Increasing Subsequence: 
+        Find the length of the longest subsequence of a given array that is strictly increasing.
+14. Dutch National Flag Problem: 
+        Rearrange an array of 0s, 1s, and 2s in sorted order.
+15. Container With Most Water: 
+        Given an array of heights representing vertical lines, find two lines that together with the x-axis form a container that holds the most water.
+16. Search in Rotated Sorted Array: 
+        Given a rotated sorted array, find the index of a target element.
+17. Jump Game: 
+        Determine if you can reach the last index of an array by jumping from each element.
+18. Spiral Matrix: 
+        Given a matrix, print its elements in spiral order.
+19. Pascal's Triangle: 
+        Generate the first few rows of Pascal's triangle.
+20. Set Matrix Zeroes: 
+        Given an m x n matrix, set entire rows and columns to zero if an element is zero.
+21. Single Number: 
+        Find the non-duplicated element in an array where every element appears twice except for one.
+22. Merge Intervals: 
+        Given a collection of intervals, merge overlapping intervals.
+23. Maximal Rectangle: 
+        Given a binary matrix, find the area of the largest rectangle containing only 1s.
+24. Permutations: 
+        Generate all possible permutations of a given set of elements.
+25. Combination Sum: 
+        Find all unique combinations of a set of numbers that add up to a given target.
+26. Largest Rectangle in Histogram: 
+        Given an array representing the heights of bars in a histogram, find the area of the largest rectangle that can be formed.
+27. Next Permutation: 
+        Rearrange numbers into the lexicographically next greater permutation.
+28. Subarray Sum Equals K: 
+        Given an array of integers, find the total number of continuous subarrays whose sum equals a specific value k.
+29. Sort Colors: 
+        Sort an array of 0s, 1s, and 2s in linear time.
+30. Counting Elements: 
+        Given an integer array, count the number of elements that are present in the array and are also present at most k times.
+31. Valid Sudoku: 
+        Determine if a 9x9 Sudoku board is valid.
+32. Word Search: 
+        Given a 2D board and a word, check if the word exists in the board.
+33. Diagonal Traverse: 
+        Traverse a matrix diagonally and return the elements in a specific order.
+34. Rotate Image: 
+        Rotate an n x n matrix (representing an image) by 90 degrees.
+35. Find All Duplicates in an Array: 
+        Find all elements that appear twice in an array.
+
+Remember, understanding the problem-solving strategies, optimizing your solutions, and considering edge cases are key skills to focus on during your interview preparation. Good luck!
